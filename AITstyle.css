@@ -1,0 +1,39 @@
+.ait2
+{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 100%;
+}
+.ait2 > div > a
+{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-family: Georgia;
+    font-size: 12px;
+    padding: 15px;
+}
+.ait2 > div:hover
+{
+    background-color: rgb(190, 168, 168);
+}
+.ait3
+{
+    background-color: rgb(170, 153, 170); position: absolute; 
+    width: 100%;
+    height: 800px;
+}
+.ait3 > h4
+{
+    margin-top: 40px;
+    margin-left: 70px; 
+    left: 20px; 
+    font-family: 'Times New Roman', Times, serif; font-weight: bold; 
+    font-size: 20px;
+}
+.ait3 > div > a > p:hover
+{
+    color: rgb(141, 5, 5);
+}
